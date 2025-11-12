@@ -1,0 +1,16 @@
+Smart Diabetes Detection System Using Machine Learning Algorithms.
+
+**********************************************
+Algorithm / Model Used: Stacking Classifier.
+Accuracy Train Score: 99% and Test Score: 92%.
+**********************************************
+Algorithm / Model Used: ExtraTree Classifier.
+Accuracy Train Score: 100% and Test Score: 93%.
+**********************************************
+Algorithm / Model Used: LGBM Classifier.
+Accuracy Train Score: 100% and Test Score: 95%.
+**********************************************
+Algorithm / Model Used: CatBoost Classifier.
+Accuracy Train Score: 100% and Test Score: 100%.
+**********************************************
+
